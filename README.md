@@ -270,10 +270,12 @@ if( is_wp_error( $new_plugin ) ) {
 
 ```
 This will help if you copy/paste the above code inside your functions file.
+
+####Example for using all plugings
+To use all plugins, use froala_editor.pkgd.legacy.min.js file inside class-froala-public.php.
  
 
-
-## License
+ ## License
 
 The `WordPress Froala WYSIWYG Editor` project is under MIT license. However, in order to use WordPress Froala WYSIWYG Editor plugin you should purchase a license for it.
 
